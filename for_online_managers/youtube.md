@@ -33,9 +33,9 @@ If possible please add timestamps. Then the user can jump to the part he would l
 Usually the timestamps are like this:
 
 ```
-00:00 Welcome & announcements
-11:58 Worship
-35:50 Preaching
+00:00:00 Welcome & announcements
+00:11:58 Worship
+00:35:50 Preaching
 01:34:50 Prayer
 01:38:43 Worship
 01:43:00 Outro & blessing
