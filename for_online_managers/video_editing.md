@@ -35,13 +35,15 @@ separate parts.
 
 # 2) Trim and cut as needed
 
-## Cut points to be aware
+## Cut points to be aware - OUT
 
-* Beginning: Before the person doing the announcements just about to start to speak.
+* Beginning: Everything before the worship (meaning cut out anouncement, early prayers etc.)
     * Sometimes they are testing audio, or just chatting you want to check and cut that.
 * Breaks: Bible-school classes usually have a long break in the middle.
     * Check beginning/end of breaks for real content.
 * End: After the "Thank you for joining us" end screen, or after the blessing prayer from 2. Cor 13:14.
+
+* IN: Worhip + sermon
 
 ## Trimming, cutting
 
